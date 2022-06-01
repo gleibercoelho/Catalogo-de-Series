@@ -1,0 +1,13 @@
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.csprojAssemblyReference.cache
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.AssemblyInfoInputs.cache
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.AssemblyInfo.cs
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.csproj.CoreCompileInputs.cache
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\bin\Debug\netcoreapp3.1\cadastros_de_series.exe
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\bin\Debug\netcoreapp3.1\cadastros_de_series.deps.json
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\bin\Debug\netcoreapp3.1\cadastros_de_series.runtimeconfig.json
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\bin\Debug\netcoreapp3.1\cadastros_de_series.runtimeconfig.dev.json
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\bin\Debug\netcoreapp3.1\cadastros_de_series.dll
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\bin\Debug\netcoreapp3.1\cadastros_de_series.pdb
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.dll
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.pdb
+C:\Users\Gleiber\Desktop\meus projetos\cadastros_de_series\obj\Debug\netcoreapp3.1\cadastros_de_series.genruntimeconfig.cache
